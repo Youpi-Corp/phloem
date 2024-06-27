@@ -1,0 +1,107 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# NuGet Packages
+*.nupkg
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.bak
+*.cache
+*.csproj.user
+*.vcxproj.user
+*.userprefs
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.sln.docstates
+
+# Resharper files
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Unity generated files
+Temp/
+UnityGenerated/
+Library/
+
+# Rider generated files
+.idea/
+*.sln.iml
+
+# Build tooling
+.nuget/
+packages/
+*.nuspec
+*.psmdcp
+*.nupkg.sha512
+*.nupkg.md5
+*.nupkg.sha256
+*.nupkg.sha384
+*.nupkg.sha512
+*.nupkg.sha3-256
+*.nupkg.sha3-384
+*.nupkg.sha3-512
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.vspscc
+*.vssscc
+*.vssettings
+*.vstemplate
+*.dotCover
+*.dotSettings.user
+*.sln.dotsettings.user
+
+# bin directory
+bin/
+
+# obj directory
+obj/
