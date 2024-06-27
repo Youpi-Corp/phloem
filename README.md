@@ -16,7 +16,8 @@ Phloem is the C# backend project for BrainForest.
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Youpi-Corp/phloem.git`
-2. [Additional installation steps, if any]
+2. Run with `dotnet run`
+
 
 ## Usage
 
