@@ -1,7 +1,6 @@
 # Phloem
 
-[![Build Status](https://img.shields.io/travis/your-username/phloem.svg?style=flat-square)](https://travis-ci.org/your-username/phloem)
-[![License](https://img.shields.io/github/license/your-username/phloem.svg?style=flat-square)](https://github.com/your-username/phloem/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Youpi-Corp/phloem.svg?style=flat-square)](https://github.com/Youpi-Corp/phloem/blob/main/LICENSE)
 
 ## Description
 
