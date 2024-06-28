@@ -101,7 +101,7 @@ packages/
 *.sln.dotsettings.user
 
 # bin directory
-bin/
+phloem/bin/
 
 # obj directory
-obj/
+phloem/obj/

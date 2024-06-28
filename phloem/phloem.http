@@ -1,0 +1,6 @@
+@phloem_HostAddress = http://localhost:5185
+
+GET {{phloem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
